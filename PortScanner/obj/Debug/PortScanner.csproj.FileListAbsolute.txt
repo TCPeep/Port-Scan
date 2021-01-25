@@ -1,0 +1,21 @@
+C:\Users\tcpfl\Desktop\PortScanner\PortScanner\bin\Debug\PortScanner.exe.config
+C:\Users\tcpfl\Desktop\PortScanner\PortScanner\bin\Debug\PortScanner.exe
+C:\Users\tcpfl\Desktop\PortScanner\PortScanner\bin\Debug\PortScanner.pdb
+C:\Users\tcpfl\Desktop\PortScanner\PortScanner\obj\Debug\PortScanner.csprojAssemblyReference.cache
+C:\Users\tcpfl\Desktop\PortScanner\PortScanner\obj\Debug\PortScanner.csproj.CoreCompileInputs.cache
+C:\Users\tcpfl\Desktop\PortScanner\PortScanner\obj\Debug\PortScanner.exe
+C:\Users\tcpfl\Desktop\PortScanner\PortScanner\obj\Debug\PortScanner.pdb
+C:\Users\tcpfl\Desktop\Custom Tools\PortScanner\PortScanner\bin\Debug\PortScanner.exe.config
+C:\Users\tcpfl\Desktop\Custom Tools\PortScanner\PortScanner\bin\Debug\PortScanner.exe
+C:\Users\tcpfl\Desktop\Custom Tools\PortScanner\PortScanner\bin\Debug\PortScanner.pdb
+C:\Users\tcpfl\Desktop\Custom Tools\PortScanner\PortScanner\obj\Debug\PortScanner.csprojAssemblyReference.cache
+C:\Users\tcpfl\Desktop\Custom Tools\PortScanner\PortScanner\obj\Debug\PortScanner.csproj.CoreCompileInputs.cache
+C:\Users\tcpfl\Desktop\Custom Tools\PortScanner\PortScanner\obj\Debug\PortScanner.exe
+C:\Users\tcpfl\Desktop\Custom Tools\PortScanner\PortScanner\obj\Debug\PortScanner.pdb
+C:\Users\tcpfl\Desktop\Projects\My Projects\PortScanner\PortScanner\bin\Debug\PortScanner.exe.config
+C:\Users\tcpfl\Desktop\Projects\My Projects\PortScanner\PortScanner\bin\Debug\PortScanner.exe
+C:\Users\tcpfl\Desktop\Projects\My Projects\PortScanner\PortScanner\bin\Debug\PortScanner.pdb
+C:\Users\tcpfl\Desktop\Projects\My Projects\PortScanner\PortScanner\obj\Debug\PortScanner.csprojAssemblyReference.cache
+C:\Users\tcpfl\Desktop\Projects\My Projects\PortScanner\PortScanner\obj\Debug\PortScanner.csproj.CoreCompileInputs.cache
+C:\Users\tcpfl\Desktop\Projects\My Projects\PortScanner\PortScanner\obj\Debug\PortScanner.exe
+C:\Users\tcpfl\Desktop\Projects\My Projects\PortScanner\PortScanner\obj\Debug\PortScanner.pdb
